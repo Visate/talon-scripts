@@ -1,0 +1,9 @@
+[submodule "community"]
+	path = community
+	url = git@github.com:Visate/talon-community
+[submodule "talon_hud"]
+	path = talon_hud
+	url = git@github.com:chaosparrot/talon_hud
+[submodule "cursorless-talon"]
+	path = cursorless-talon
+	url = git@github.com:cursorless-dev/cursorless-talon
